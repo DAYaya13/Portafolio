@@ -17,9 +17,3 @@ Análisis de resultados de pruebas A/B en una tienda en línea, con el objetivo 
 - Detección de la versión ganadora en la prueba A/B.
 - Visualización clara del comportamiento de los usuarios en el embudo de conversión.
 - Sugerencias de mejora para aumentar la conversión basada en evidencia.
-
-## Capturas o Dashboard (opcional)
-_Añadir aquí imágenes o visualizaciones relevantes si las tienes._
-
----
-
